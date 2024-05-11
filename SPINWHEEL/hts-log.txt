@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 May 2024 21:34:55 at https://earthystorm.com/06888-laughing-benefits/?ad_id=%7B%7Bad.id%7D%7D&adset_id=%7B%7Badset.id%7D%7D&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_name=%7B%7Bad.name%7D%7D&adset_name=%7B%7Badset.name%7D%7D&campaign_name=%7B%7Bcampaign.name%7D%7D&source=%7B%7Bsite_source_name%7D%7D&placement=%7B%7Bplacement%7D%7D&pid=325868703936043&cpid=25716fe2-53ca-4405-a7f4-5df80ba4d925&lpid=3ba29d0e-1c3c-4061-b1ad-a9981b44d45d# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://earthystorm.com/06888-laughing-benefits/?ad_id=%7B%7Bad.id%7D%7D&adset_id=%7B%7Badset.id%7D%7D&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_name=%7B%7Bad.name%7D%7D&adset_name=%7B%7Badset.name%7D%7D&campaign_name=%7B%7Bcampaign.name%7D%7D&source=%7B%7Bsite_source_name%7D%7D&placement=%7B%7Bplacement%7D%7D&pid=325868703936043&cpid=25716fe2-53ca-4405-a7f4-5df80ba4d925&lpid=3ba29d0e-1c3c-4061-b1ad-a9981b44d45d# -O1 "C:\Users\User\OneDrive\Pictures\JKC88\JKC88WINNER\SPINWHEEL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:35:08	Error: 	"Bad Request" (400) at link https://facket-openting.com/d/25716fe2-53ca-4405-a7f4-5df80ba4d925.js (from https://earthystorm.com/06888-laughing-benefits/?ad_id=%7B%7Bad.id%7D%7D&adset_id=%7B%7Badset.id%7D%7D&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_name=%7B%7Bad.name%7D%7D&adset_name=%7B%7Badset.name%7D%7D&campaign_name=%7B%7Bcampaign.name%7D%7D&source=%7B%7Bsite_source_name%7D%7D&placement=%7B%7Bplacement%7D%7D&pid=325868703936043&cpid=25716fe2-53ca-4405-a7f4-5df80ba4d925&lpid=3ba29d0e-1c3c-4061-b1ad-a9981b44d45d)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 44 links scanned, 42 files written (5233875 bytes overall) [5080755 bytes received at 390827 bytes/sec], 295825 bytes transferred using HTTP compression in 12 files, ratio 35%, 4.4 requests per connection
+(1 errors, 0 warnings, 0 messages)
